@@ -33,22 +33,5 @@
  <br/>
  
 <!--
-[![Discord](https://img.shields.io/badge/Discord-7289da.svg?logo=discord&logoColor=white&color=7289da)](https://discord.gg/)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
--->
-
-<!--
-Figma Links
-First Web GUITO
-https://www.figma.com/proto/55wx9CCUzZ6ip5IP3dNwgG/GUITO-UX%2FUI-2nd-Version?node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down-width&content-scaling=fixed&t=Kt8GxP7VeblTPAqt-1
-SUT Relax Mobile Application
-https://www.figma.com/proto/POOoJ9m72qVcTo4EM9ZPCz/SUT-Relax?node-id=575-4122&node-type=frame&t=ITQFalqd96SsZS69-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=575%3A4122
-Smart Green House Mobile Application
-https://www.figma.com/proto/bsx1C2QM0DhgsXYd22HAaS/GHT-GreenHouseTech?node-id=18-459&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A459
-Kuntha's Website (on Progress)
-https://www.figma.com/proto/phpA3YQVvUdDxH5sEfN3SG/Kunthida-s-Web?node-id=1-3&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A3
 -->
