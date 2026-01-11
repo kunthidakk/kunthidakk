@@ -1,4 +1,4 @@
-# Mhon Kunthida 👾🎸⚡
+# Mhon Kunthida
 **`React Native Development | UX/UI Figma Designe | Backend & MongoDB Schema Design`**
 
 ### 🛠️ Currently Working
@@ -11,7 +11,7 @@
  - [Smart Green House Mobile Application](https://www.figma.com/proto/bsx1C2QM0DhgsXYd22HAaS/GHT-GreenHouseTech?node-id=18-459&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A459)
 
 ## 📱 Mobile Application
- - SUT Relax Mobile Application, a mental health mobile application (Undone Final Project)
+ - SUT Relax Mobile Application, a mental health mobile application (University Final Project)
 
 ## 🧰 Languages & Tools (that I'd prefer to use)
 
