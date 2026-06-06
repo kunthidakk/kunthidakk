@@ -8,7 +8,7 @@
  - [Smart Green House Mobile Application](https://www.figma.com/proto/bsx1C2QM0DhgsXYd22HAaS/GHT-GreenHouseTech?node-id=18-459&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A459)
 -->
 
-## 🧰 Languages & Tools (that I'd prefer to use)
+## 🧰 Languages & Tools
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
