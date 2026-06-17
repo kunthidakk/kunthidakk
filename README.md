@@ -9,10 +9,13 @@
 -->
 
 ## 🧰 Languages & Tools
-
- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+ ![MonoGame](https://img.shields.io/badge/MonoGame-%23d81c22.svg?style=flat-square&logo=monogame&logoColor=white)
+ ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=json&logoColor=white)
+ <br/>
+ ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+ <br/>
+ ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ## 🌐 Contacts
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunthida-khlongkhlaew-5b6706324) 
