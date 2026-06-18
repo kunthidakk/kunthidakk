@@ -1,15 +1,4 @@
-# Mhon
-**`React Native Development | UX/UI Figma Designe | Backend & MongoDB Schema Design`**
-<!--
-### 🖼️ UI Design (University Projects)
- - [GUITO Website](https://www.figma.com/proto/55wx9CCUzZ6ip5IP3dNwgG/GUITO-UX%2FUI-2nd-Version?node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down-width&content-scaling=fixed&t=Kt8GxP7VeblTPAqt-1)
- - [SUT Relax Mobile Application](https://www.figma.com/proto/POOoJ9m72qVcTo4EM9ZPCz/SUT-Relax?node-id=575-4122&node-type=frame&t=ITQFalqd96SsZS69-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=575%3A4122)
- - [A Puffé Mobile Application](https://www.figma.com/proto/PEHWoHrTGtcHm4yWfk0jA5/A-Puff%C3%A9-iOS-Application?node-id=1-3&node-type=frame&t=yX6uVVlAOp1ZGSWs-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3)
- - [Smart Green House Mobile Application](https://www.figma.com/proto/bsx1C2QM0DhgsXYd22HAaS/GHT-GreenHouseTech?node-id=18-459&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A459)
--->
-
-## 🧰 Languages & Tools
- ![MonoGame](https://img.shields.io/badge/MonoGame-%23d81c22.svg?style=flat-square&logo=monogame&logoColor=white)
+![MonoGame](https://img.shields.io/badge/MonoGame-%23d81c22.svg?style=flat-square&logo=monogame&logoColor=white)
  ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=json&logoColor=white)
  <br/>
  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -17,10 +6,13 @@
  <br/>
  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-## 🌐 Contacts
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunthida-khlongkhlaew-5b6706324) 
- [![Gmail](https://img.shields.io/badge/Gmail-e5e5e5.svg?logo=gmail&logoColor=white&color=fe4737)](mailto:kunthidakhlongkhlaew@gmail.com)
- <br/>
+<!--
+### 🖼️ UI Design (University Projects)
+ - [GUITO Website](https://www.figma.com/proto/55wx9CCUzZ6ip5IP3dNwgG/GUITO-UX%2FUI-2nd-Version?node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down-width&content-scaling=fixed&t=Kt8GxP7VeblTPAqt-1)
+ - [SUT Relax Mobile Application](https://www.figma.com/proto/POOoJ9m72qVcTo4EM9ZPCz/SUT-Relax?node-id=575-4122&node-type=frame&t=ITQFalqd96SsZS69-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=575%3A4122)
+ - [A Puffé Mobile Application](https://www.figma.com/proto/PEHWoHrTGtcHm4yWfk0jA5/A-Puff%C3%A9-iOS-Application?node-id=1-3&node-type=frame&t=yX6uVVlAOp1ZGSWs-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3)
+ - [Smart Green House Mobile Application](https://www.figma.com/proto/bsx1C2QM0DhgsXYd22HAaS/GHT-GreenHouseTech?node-id=18-459&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A459)
+-->
  
 <!--
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
